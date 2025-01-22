@@ -28,7 +28,7 @@ function Home() {
               Download CV
             </button>
             <button className="text-yellow-500 bg-transparent font-Poppins font-semibold text-md rounded-lg shadow-lg border-2 border-yellow-500 py-2 px-7 hover:bg-yellow-500 hover:text-main transition-colors duration-300 transform hover:scale-105">
-              Let's Talk
+              Let&apos;s Talk
             </button>
           </div>
         </div>
