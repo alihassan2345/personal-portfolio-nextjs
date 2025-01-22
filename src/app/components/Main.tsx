@@ -40,7 +40,7 @@ function Home() {
             <div className="w-96 h-96 rounded-full overflow-hidden border-4 border-yellow-500 shadow-lg transform transition-all duration-300 ease-in-out hover:scale-110">
               {/* Profile image */}
               <Image
-                src={"/ali hassan-doit.pk.jpg"}
+                src="/ali hassan-doit.pk.jpg"
                 alt="Profile Image"
                 layout="intrinsic"
                 width={640}
