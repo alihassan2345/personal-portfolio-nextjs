@@ -27,10 +27,10 @@ function About() {
             My name is <span className="text-yellow-400 font-semibold">Ali Hassan</span>, and I am a 16-year-old dedicated Graphic Designer, Web Developer, and an enthusiast in Generative AI. I have completed my Intermediate from Government National College and my Matriculation from National Public School.
           </p>
           <p className="text-base sm:text-lg lg:text-lg leading-relaxed font-poppins mt-4">
-            I have developed my skills by mastering Photoshop and video editing, as well as gaining expertise in HTML, CSS, JavaScript, Next.js, Tailwind CSS, and TypeScript. My projects include a car rental website and a dynamic blog called <span className="text-yellow-400 font-semibold">"BlogSphere"</span>.
+            I have developed my skills by mastering Photoshop and video editing, as well as gaining expertise in HTML, CSS, JavaScript, Next.js, Tailwind CSS, and TypeScript. My projects include a car rental website and a dynamic blog called <span className="text-yellow-400 font-semibold">&quot;BlogSphere&quot;</span>.
           </p>
           <p className="text-base sm:text-lg lg:text-lg leading-relaxed font-poppins mt-4">
-            Currently, I am working on developing my AI assistant, <span className="text-yellow-400 font-semibold">"Nexa"</span>, which is designed to be self-learning and capable of performing advanced tasks. I enjoy exploring new technologies and integrating them into my work, striving for practical and innovative solutions through creativity and problem-solving skills.
+            Currently, I am working on developing my AI assistant, <span className="text-yellow-400 font-semibold">&quot;Nexa&quot;</span>, which is designed to be self-learning and capable of performing advanced tasks. I enjoy exploring new technologies and integrating them into my work, striving for practical and innovative solutions through creativity and problem-solving skills.
           </p>
         </div>
       </div>
