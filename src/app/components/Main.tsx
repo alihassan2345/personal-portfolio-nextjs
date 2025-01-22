@@ -18,9 +18,9 @@ function Home() {
             developer. After learning Photoshop and video editing, I have gained
             expertise in HTML, CSS, JavaScript, Next.js, Tailwind CSS, and
             TypeScript. My projects include a car rental website and a dynamic
-            blog called "BlogSphere". I have a passion for learning new
+            blog called &quot;BlogSphere&quot;. I have a passion for learning new
             technologies and improving my skills. Currently, I am working on
-            creating my AI assistant, "Nexa". I always strive to find creative
+            creating my AI assistant, &quot;Nexa&quot;. I always strive to find creative
             and practical solutions.
           </p>
           <div className="flex py-4 space-x-8 lg:justify-start sm:justify-center lg:scale-100 sm:scale-75 transition-all duration-300 ease-in-out">
