@@ -14,7 +14,7 @@ function Home() {
             Web Developer | Graphic Designer
           </h1>
           <p className="lg:text-sm text-white px-1 py-2 sm:text-base transition-all duration-300 ease-in-out">
-            My name is Ali Hassan, and I am a skilled graphic designer and web
+            My name is Ali Hassan and I am a skilled graphic designer and web
             developer. After learning Photoshop and video editing, I have gained
             expertise in HTML, CSS, JavaScript, Next.js, Tailwind CSS, and
             TypeScript. My projects include a car rental website and a dynamic
